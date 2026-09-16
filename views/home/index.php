@@ -72,6 +72,7 @@
         <div>
             <div class="card-price">$30.00</div>
             <a href="/origins_games/cita" class="btn btn-primary" style="background: var(--cyan-accent); border: none;">Agendar Servicio</a>
+            <!-- holi -->
         </div>
     </div>
 </div>
